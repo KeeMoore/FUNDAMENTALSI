@@ -1,0 +1,15 @@
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\bin\Debug\net6.0\FUNDAMENTALSI.exe
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\bin\Debug\net6.0\FUNDAMENTALSI.deps.json
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\bin\Debug\net6.0\FUNDAMENTALSI.runtimeconfig.json
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\bin\Debug\net6.0\FUNDAMENTALSI.dll
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\bin\Debug\net6.0\FUNDAMENTALSI.pdb
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\FUNDAMENTALSI.csproj.AssemblyReference.cache
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\FUNDAMENTALSI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\FUNDAMENTALSI.AssemblyInfoInputs.cache
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\FUNDAMENTALSI.AssemblyInfo.cs
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\FUNDAMENTALSI.csproj.CoreCompileInputs.cache
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\FUNDAMENTALSI.dll
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\refint\FUNDAMENTALSI.dll
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\FUNDAMENTALSI.pdb
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\FUNDAMENTALSI.genruntimeconfig.cache
+C:\Users\keimh\OneDrive\Desktop\Coding Doja WOS\WOS_HOMEWORK\FUNDAMENTALSI\obj\Debug\net6.0\ref\FUNDAMENTALSI.dll
